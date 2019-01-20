@@ -20,7 +20,6 @@ namespace LinkedList
 
     public class Liste
     {
-        public Eleman liste = new Eleman(0);
         public Eleman bas;
         public Eleman son;
 
